@@ -1,0 +1,14 @@
+{
+    "name": "yahyaoz/magmacore",
+    "description": "Simple mvc framework for building web applications",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yahya Oz",
+            "email": "yahyaoz9@hotmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
